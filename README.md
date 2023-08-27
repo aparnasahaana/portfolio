@@ -1,0 +1,6 @@
+# I developed my portfolio using HTML,CSS and JavaScript. Here I linked some of my projects. 
+# The Quiz project - I used object array to store questions, ansers and all the options. The 30 seconds timer is set for all the questions. 
+# The To-Do-List project - I used javascript local storage to save my list.  I used fontawesome cdn links and other css designing techniques. 
+# The Text-To-Voice converter - I used the sound synthesis AI techinque to get all the voices avilable in my device. Whatever we type in the textarea box, we can listen by clicking listen button and can select the voice by choosing from selection box.
+# The memory game - In the memory game, I used javascript object array to store 6 pairs of fontawesome icons. lots of functions and timer helped to make a enjoyable flipcard game. At the final it report the player, him/her name with how many seconds they took to finish it.
+# Python database project - Here I used SQLite to create database and tables about films. CRUD operations are  done by functions. I checked validation and type error when getting input from users. The Replit - used this techniques to create a repository for the python database program and connect it with the HTML file to make it user friendly.
